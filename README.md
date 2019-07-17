@@ -19,7 +19,7 @@ Ultimately, once an image classification model is completed and is proved to hav
 The first step to the project was to build a facial recognition model.
 Our team of 4 took around 12 headshots of each other making different faces at the camera providing me with 48 unique pictures to work with as training data.
 
-<img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/IMG_6520.jpg width=45%><img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/IMG_6525.jpg width=45%>
+<img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/IMG_6520.jpg width=45% hspace="10"><img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/IMG_6525.jpg width=45% hspace="10">
 
 I prepared the 48 png files by converting them into recordio files based on class and person. Within the recordio file, I separated the data, 70% dedicated to training, and the other 30% to validation. From there, I finetuned the hyperparameters for the model and utilized Sagemaker's image classification algorithm to build out a classification model.
 
