@@ -1,0 +1,27 @@
+Without Isaiah
+	  la    ll   ra   rl 
+la	[[183.   1.  10.   1.]
+ll 	 [  2. 165.   7.   0.]
+ra 	 [  1.   0. 182.   0.]
+rl 	 [  3.  15.  68.  89.]]
+
+Without Patterson
+	  la	ll   ra   rl
+la	[[162.   7.   0.   3.]
+ll 	 [  0. 113.   0.  36.]
+ra 	 [  0.   6. 152.   4.]
+rl 	 [  4.   4.   0. 148.]]
+
+Without Ryan
+	  la    ll   ra   rl
+la	[[181.   6.   0.   2.]
+ll	 [  0. 170.   6.   4.]
+ra	 [  2.  18. 200.  11.]
+rl	 [  0.   7.   0. 152.]]
+
+Without Kaylee
+	  la    ll   ra   rl
+la	[[149.   5.  29.   1.]
+ll 	 [  0. 116.  20.   0.]
+ra 	 [  0.   2. 169.   0.]
+rl 	 [  0.  16.   8. 126.]]
