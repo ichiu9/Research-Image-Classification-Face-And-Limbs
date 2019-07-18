@@ -40,3 +40,5 @@ In this second phase, our team took 4 videos of each person moving each of their
 After the optical flow images were created there came out to be around 2,500 images total that I was able to use for training. I spent a lot more time on the data preparation side this time around because I wanted to eventually evaluate the model using K-fold Cross Validation. This meant building 4 different sets of recordio files, each one omitting a different team member. After the data was finally prepared, I ran the model 4 different times for each set of data on a similar image classification model to the one I built for the facial recognition.
 
 #### RESULT
+
+<img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/i_plot.png width=50%><img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/k_plot.png width=50%><img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/r_plot.png width=50%><img src=https://github.com/ichiu9/Research-Image-Classification-Face-And-Limbs/blob/master/Images/p_plot.png width=50%>
