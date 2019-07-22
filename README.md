@@ -27,6 +27,7 @@ Once a deeper level of understanding is reached, my team will decide if Sagemake
 
 Ultimately, once an image classification model is completed and is proved to have a reliable accuracy, the same concepts and model will be moved to the nicu data to predict signs of cerebral palsy in premature babies
 
+---
 ### FACIAL RECOGNITION 
 <a name="fr"/></a>
 #### DATA 
@@ -44,6 +45,7 @@ I prepared the 48 png files by converting them into recordio files based on clas
 <a name="fresults"/></a>
 The model proved to be fairly accurate providing +95% accuracy for the two of the team members and 55-65% accuracy for the other team members. These results proved that the model was functioning which meant it was time to move on to the next step of classifying limb movement from optical flow images.
 
+---
 ### LIMB MOVEMENT RECOGNITION
 <a name="lr"/></a>
 #### DATA
